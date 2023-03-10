@@ -110,9 +110,20 @@ The following is the recommended connection method of Garland.  However, you can
 
 ```
 ```bash
+                                                                    
+                                                                   
+            (LAN1)          (LAN2 to WIFI AP's WAN)               
+Modem with ----------- Garland ---------------- WIFI AP -------------------- PCs & Laptops
+WIFI Router (unused)      |                        |                
+                          |                        |               
+                          +------------------------+                
+                            (WAN to WIFI AP's LAN)
+
+```
+```bash
                                                                     +------- WIFI AP
                                                                     |
-            (LAN1)          (LAN2 to Switch Port #1)                |
+            (LAN1)          (LAN2 to Switch's Port #1)              |
 Modem with ----------- Garland ---------------- Switch -------------+
 WIFI Router (unused)      |                        |                |
                           |                        |                |
@@ -123,7 +134,7 @@ WIFI Router (unused)      |                        |                |
 ```bash
                                                                     +------- WIFI AP
                                                                     |
-            (LAN1)          (LAN2 to Switch Port #1)                |
+            (LAN1)          (LAN2 to Switch's Port #1)              |
 5G Modem ----------- Garland ------------------ Switch -------------+
 WIFI Router (unused)      |                        |                |
                           |                        |                |
