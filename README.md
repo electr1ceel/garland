@@ -91,7 +91,7 @@ The following is the recommended connection method of Garland.  However, you can
 
 建议将防御入侵系统放置于路由器之前，但亦可以放置在路由器之后。
 
-```bash
+```
             (LAN1)             (LAN2 to Router's WAN)          (Router's LAN)          
    Modem ----------- Garland ----------------------- Router ----------------- PCs & Laptops
                           |                           (WIFI)                      
@@ -99,7 +99,7 @@ The following is the recommended connection method of Garland.  However, you can
                           +-----------------------------+
                               (WAN to Router's LAN)
 ```
-```bash
+```
                                                                                 +------- Laptops
                                                                                 |
             (LAN1)           (LAN2 to Router's WAN)     (Switch's LAN)          |
@@ -110,7 +110,7 @@ The following is the recommended connection method of Garland.  However, you can
                                    (WAN to Switch's LAN)
 
 ```
-```bash
+```
                                                                     
                                                                    
             (LAN1)          (LAN2 to WIFI AP's WAN)               
@@ -121,7 +121,7 @@ WIFI Router (unused)      |                        |
                             (WAN to WIFI AP's LAN)
 
 ```
-```bash
+```
                                                                     +------- WIFI AP
                                                                     |
             (LAN1)          (LAN2 to Switch's Port #1)              |
@@ -132,7 +132,7 @@ WIFI Router (unused)      |                        |                |
                             (WAN to Switch's LAN)
 
 ```
-```bash
+```
                                                                     +------- WIFI AP
                                                                     |
             (LAN1)          (LAN2 to Switch's Port #1)              |
@@ -159,7 +159,7 @@ Between 0600 and 0630 hours every day, Garland will do the housekeeping and upda
 Garland can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Garland is booting up.  It is advised NOT to turn off the Garland between 0600 and 0630 hours as it will do the update automatically.  If you do so, you may break the Garland.  Meanwhile, if you turn off the Garland within half an hour of the booting up, you may also break the system too.    
 
 ### How many detecting / blocking rules in Garland?  
-There are over 46,000 rules in Garland and they are all free of charge.  The number of rules are increasing.    
+There are over 47,000 rules in Garland and they are all free of charge.  The number of rules are increasing.    
 
 ### Do you recommend to access Garland via SSH in internet?
 For security purpose, it is NOT recommended to connect Garland via SSH in internet.  However, you may connect Garland via SSH in intranet.  The username and password are "garland".  The IP address of the garland is 192.168.x.200, e.g. 192.168.0.200.  
