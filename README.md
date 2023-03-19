@@ -240,5 +240,5 @@ Discord @samiux#3445
 ## SEE ALSO
 
 - [Garland IDPS and 4K video playback]( https://youtu.be/3D4knrZNr8U)  
-- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)  
-- [平价适合家用的防御入侵系统](/nanopi.md)  
+- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](https://github.com/samiux/rosemary)  
+- [平价适合家用的防御入侵系统](https://samiux.github.io/nanopi.html)  
