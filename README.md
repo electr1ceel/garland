@@ -64,7 +64,7 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 
 ## IDPS ENGINE
 
-- Suricata 6.0.10  
+- Suricata 6.0.11  
 
 ## INSTALLATION
 
