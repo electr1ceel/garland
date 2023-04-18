@@ -58,7 +58,7 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 - Max. WAN traffic flow up to 2.5Gbps  
 - 1 HDMI 2.0  
 - 2 USB 3.0 Type-A  
-- 1 SD Card Slot  
+- 1 micro SD Card Slot  
 - Slightly larger than a credit card  
 - 94.5mm (L) x 68mm (W) x 30mm (H)   
 
@@ -76,7 +76,7 @@ Download [Balena Etcher](https://www.balena.io/etcher) at its official site and 
 
 ## 安装
 
-你需要一张至少 64GB (规格 10) 的 SD 卡。
+你需要一张至少 64GB (规格 10) 的 micro SD 卡。
 
 从[谷歌云盘](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>)下载镜像文件，然后解压文件。
 
